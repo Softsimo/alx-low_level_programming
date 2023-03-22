@@ -1,6 +1,12 @@
 #include "main.h"
 	#include <unistd.h>
-	/**
+/**
+	 * main - print _putchar
+	 * is written by mbah
+	 * Return: 0
+	 */
+	
+/**
 	 * _putchar - writes the character c to stdout
 	 * @c: The character to print
 	 *
