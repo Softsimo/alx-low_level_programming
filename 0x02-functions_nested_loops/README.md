@@ -24,7 +24,7 @@ All of the following files are programs written in C:
 		
 | Filename | Description |
 		
-| -------- | ----------- |
+|`main.h` | `main` |
 		
 | `0-Putchar.c` | Prints `Putchar` |
 		
